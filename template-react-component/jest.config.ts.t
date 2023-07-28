@@ -11,7 +11,4 @@ export default {
       statements: 80,
     },
   },
-  moduleNameMapper: {
-    '\\.(css|less|sass|scss)(\\?.+)?$': '<rootDir>/node_modules/@exp-builder/lib.jest-helpers/moduleMappers/stub.js',
-  },
 }
