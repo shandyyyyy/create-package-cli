@@ -13,7 +13,7 @@ Describe your component here.
 - Describe the usage 
 
 ```tsx
-import { {{ COMPONENT_NAME }} } from '@exp-builder/{{ PACKAGE_NAME }}'
+import { {{ COMPONENT_NAME }} } from '{{ PACKAGE_NAME }}'
 
   // ...
   <{{ COMPONENT_NAME }} {...args } />
